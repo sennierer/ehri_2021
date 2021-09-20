@@ -50,7 +50,3 @@
 
 ![Omnipot example](images/screen_Omnipot_localGraph.PNG)
 
-
-+++
-
-https://omnipot.acdh-dev.oeaw.ac.at
